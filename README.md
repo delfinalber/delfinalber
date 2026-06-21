@@ -22,6 +22,8 @@ Soy **Ingeniero de Sistemas**, analista de **Big Data**, desarrollador de softwa
 
 He trabajado como **Instructor SENA**, docente catedrático universitario y programador de software, participando en procesos de enseñanza, diseño de software, desarrollo web y acompañamiento técnico. Mi perfil combina experiencia en educación, desarrollo de aplicaciones y mejora continua mediante tecnologías modernas.
 
+Además, cuento con experiencia en la gestión de **proyectos ágiles** utilizando **Jira**, aplicando marcos como Scrum para la planificación de sprints, seguimiento de historias de usuario y control de flujos de trabajo. Esto me permite integrar la práctica de la ingeniería con herramientas de colaboración que optimizan la productividad y la calidad en equipos de desarrollo.
+
 Me interesa seguir fortaleciendo mis competencias en desarrollo de software, arquitectura, DevOps, análisis de datos y herramientas de automatización, aportando soluciones funcionales, escalables y centradas en el usuario.
 
 ---
